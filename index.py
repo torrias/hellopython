@@ -1,3 +1,3 @@
-print ("Hello World")
-print ("321")
-print ("123")
+print ("What is your name?")
+name = input()
+print ("Hello", name)
